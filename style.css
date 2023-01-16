@@ -1,0 +1,44 @@
+/* auth */
+.auth-from-container{
+    width: 300px;
+    min-height: 200px;
+    border: 1px solid#ccc;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.auth-from-container label{
+    display: block;
+    margin-bottom: 5px;
+}
+.auth-from-container .text-input {
+    height: 30px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: rgb(80, 80, 110);
+    
+}
+.form-group{
+    margin-bottom: 10px;
+}
+.sumbit-button{
+    display: block;
+    width: 100%;
+    height: 35px;
+    color: white;
+    cursor: pointer;
+    border: 0;
+    margin-bottom: 15px;
+    background-color: rgb(77,77, 179);
+   
+
+}
+.reset-pass-link{
+    display: block;
+    text-align: center;
+    font-size: 12px;
+}
